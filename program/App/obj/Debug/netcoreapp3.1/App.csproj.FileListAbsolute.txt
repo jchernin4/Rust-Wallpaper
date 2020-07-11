@@ -1,0 +1,13 @@
+D:\Desktop\RustWallpaper\program\App\bin\Debug\netcoreapp3.1\App.exe
+D:\Desktop\RustWallpaper\program\App\bin\Debug\netcoreapp3.1\App.deps.json
+D:\Desktop\RustWallpaper\program\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+D:\Desktop\RustWallpaper\program\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+D:\Desktop\RustWallpaper\program\App\bin\Debug\netcoreapp3.1\App.dll
+D:\Desktop\RustWallpaper\program\App\bin\Debug\netcoreapp3.1\App.pdb
+D:\Desktop\RustWallpaper\program\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+D:\Desktop\RustWallpaper\program\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+D:\Desktop\RustWallpaper\program\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+D:\Desktop\RustWallpaper\program\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+D:\Desktop\RustWallpaper\program\App\obj\Debug\netcoreapp3.1\App.dll
+D:\Desktop\RustWallpaper\program\App\obj\Debug\netcoreapp3.1\App.pdb
+D:\Desktop\RustWallpaper\program\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
